@@ -5,6 +5,7 @@ A collection of links for jump starting in ERPNext Development.
 ## Tutorial Methods
 
 - [Helpful Beginner Tutorial](https://frappe.school/courses/frappe-framework-tutorial)
+- [Understanding Bench - Frappe - Apps](https://github.com/frappe/frappe/wiki/The-Hitchhiker%27s-Guide-to-Installing-Frapp%C3%A9-on-Linux/31019602d7f2b622e9ccb73acc766fa9541e8ec0)
 
 ## Install
 
