@@ -12,6 +12,12 @@ A collection of links for jump starting in ERPNext Development.
 - [Docker Image](https://github.com/frappe/frappe_docker)
 - [Windows Based Docker Installation](https://github.com/frappe/frappe_docker/blob/main/docs/troubleshoot.md#letsencrypt-companion-not-working)
 
+## First Steps
+
+- [Company Setup](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/company-setup)
+- [E-Mail Setup](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-account)
+- [Taxes Setup](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/setting-up-taxes)
+
 ## Fields
 
 - [Overview Field Types](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/field-types)
@@ -32,6 +38,8 @@ A collection of links for jump starting in ERPNext Development.
   - Search for "Client Script" in ERPNext Searchbar
 
 ## Reports
+
+- [Report with prompt/user-input](https://frappeframework.com/docs/v13/user/en/api/dialog)
 
 ## API
 
