@@ -41,6 +41,7 @@ A collection of links for jump starting in ERPNext Development.
 
 - [Report with prompt/user-input](https://frappeframework.com/docs/v13/user/en/api/dialog)
 - [Example Script Report](https://discuss.erpnext.com/t/devtip-custom-reports-purely-client-side/78038)
+- [Example Report with Date](https://github.com/frappe/erpnext/tree/develop/erpnext/crm/report/lead_details)
 
 ## API
 
