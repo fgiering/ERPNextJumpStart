@@ -33,7 +33,7 @@ A collection of links for jump starting in ERPNext Development.
 
 ## Scripts
 
-- [Helpful COmmunity Scripts](https://github.com/frappe/erpnext/wiki/Community-Developed-Custom-Scripts)
+- [Helpful Community Scripts](https://github.com/frappe/erpnext/wiki/Community-Developed-Custom-Scripts)
 - [Add Scripts to Forms](https://frappeframework.com/docs/v13/user/en/api/form)
   - Search for "Client Script" in ERPNext Searchbar
 
@@ -42,6 +42,7 @@ A collection of links for jump starting in ERPNext Development.
 - [Report with prompt/user-input](https://frappeframework.com/docs/v13/user/en/api/dialog)
 - [Example Script Report](https://discuss.erpnext.com/t/devtip-custom-reports-purely-client-side/78038)
 - [Example Report with Date](https://github.com/frappe/erpnext/tree/develop/erpnext/crm/report/lead_details)
+- [Multi Select Dropwdown for Filters](https://discuss.erpnext.com/t/how-can-we-add-multi-select-dropdown-filters-in-custom-script-report/69979)
 
 ## API
 
