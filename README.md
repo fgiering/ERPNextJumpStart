@@ -35,7 +35,9 @@ A collection of links for jump starting in ERPNext Development.
 
 - [Helpful Community Scripts](https://github.com/frappe/erpnext/wiki/Community-Developed-Custom-Scripts)
 - [Add Scripts to Forms](https://frappeframework.com/docs/v13/user/en/api/form)
-  - Search for "Client Script" in ERPNext Searchbar
+  - Search for "Client Script" in your ERPNext Searchbar
+- [Server Scripts](https://frappeframework.com/docs/v13/user/en/api/database)
+- [Methods for Scripts](https://frappeframework.com/docs/v13/user/en/desk/scripting/script-api)
 
 ## Reports
 
