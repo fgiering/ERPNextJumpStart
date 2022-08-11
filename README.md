@@ -43,6 +43,7 @@ A collection of links for jump starting in ERPNext Development.
 - [Example Script Report](https://discuss.erpnext.com/t/devtip-custom-reports-purely-client-side/78038)
 - [Example Report with Date](https://github.com/frappe/erpnext/tree/develop/erpnext/crm/report/lead_details)
 - [Multi Select Dropwdown for Filters](https://discuss.erpnext.com/t/how-can-we-add-multi-select-dropdown-filters-in-custom-script-report/69979)
+- [Get and Sum Data from Customer](https://github.com/frappe/erpnext/blob/develop/erpnext/selling/report/inactive_customers/inactive_customers.py)
 
 ## API
 
