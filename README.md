@@ -29,7 +29,23 @@ A collection of links for jump starting in ERPNext Development.
 
 ## DocTypes
 
-- [Link DocTypes]()
+- [Linked Documents](https://www.youtube.com/watch?v=u6di2csqSEg)
+- Add Action to DocType Listview:
+  - Add Client Script on "List" with:
+
+```frappe.listview_settings['Camp Participant'] = {
+ onload: function(frm) {
+	 frm.page.add_action_item(__("Test option"), function() {
+    	test( frm );
+    });
+  }
+};
+
+function test( frm )
+  {
+    frappe.msgprint("Test passed");
+  }
+```
 
 ## Scripts
 
