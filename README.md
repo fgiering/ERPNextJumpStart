@@ -38,6 +38,7 @@ A collection of links for jump starting in ERPNext Development.
   - Search for "Client Script" in your ERPNext Searchbar
 - [Server Scripts](https://frappeframework.com/docs/v13/user/en/api/database)
 - [Methods for Scripts](https://frappeframework.com/docs/v13/user/en/desk/scripting/script-api)
+- [Add Button to DocType ListView](https://aadhilpm.com/button-link-in-doctype-list-view-frappe-framework-erpnext/)
 
 ## Reports
 
