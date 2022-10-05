@@ -55,6 +55,8 @@ function test( frm )
 - [Server Scripts](https://frappeframework.com/docs/v13/user/en/api/database)
 - [Methods for Scripts](https://frappeframework.com/docs/v13/user/en/desk/scripting/script-api)
 - [Add Button to DocType ListView](https://aadhilpm.com/button-link-in-doctype-list-view-frappe-framework-erpnext/)
+- [Frappe Devloper Cheat Sheet](https://github.com/frappe/frappe/wiki/Developer-Cheatsheet)
+- [Frappe Client side scripting](https://github.com/frappe/frappe/wiki/Client-side-scripting)
 
 ## Reports
 
